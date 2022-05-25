@@ -1,12 +1,32 @@
-- 👋 Hi, I’m [Shubham Jagtap](https://github.com/shubhamjagtap2126/)
-- 👀 I’m seeking for Data scientist and interested in Data science, Big Data, AI-ML-DL Projects.
-- 🌱 I’m currently learning Python, R, SQL, Tableau, PowerBI, Google Data studio, etc.
-- 💞️ I’m looking to collaborate on Educational projects.
-- 📫 How to reach me - [PortFolio](https://shubhamjagtap2126.wixsite.com/shubhamjagtap)
+<table>
+<tr>
+<td>
+  
+- 👋 Hi, I’m [Shubham Jagtap](https://github.com/shubhamjagtap2126/) 
+- 👀 I’m seeking for **Data scientist** 
+- 🌟Interested in _Data science, Big Data, AI-ML-DL_ Projects.
+- 💞️ I’m looking to collaborate on **Educational projects**.
+- 📫 How to reach me - [**PortFolio**](https://shubhamjagtap2126.wixsite.com/shubhamjagtap)
 
 ![visitors count](https://visitor-badge.glitch.me/badge?page_id=shubhamjagtap2126)
 
-<!---
-shubhamjagtap2126/shubhamjagtap2126 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</td>
+
+<td>
+
+<div align="left">
+    <img src="https://img.shields.io/badge/Python-007f00?logo=python&logoColor=white&style=for-the-badge&color=blue" alt="Python">
+    <img src="https://img.shields.io/badge/R-007f00?logo=R&logoColor=white&style=for-the-badge&color=blue" alt="R">
+    <img src="https://img.shields.io/badge/Tableau-007f00?logo=Tableau&logoColor=white&style=for-the-badge&color=blue" alt="Tableau">
+    <img src="https://img.shields.io/badge/PowerBI-007f00?logo=PowerBI&logoColor=white&style=for-the-badge&color=blue" alt="PowerBI">
+    <img src="https://img.shields.io/badge/google_data_studio-007f00?logo=Googledatastudio&logoColor=white&style=for-the-badge&color=blue" alt="Google data studio">
+    <img src="https://img.shields.io/badge/google_products-007f00?logo=google&logoColor=white&style=for-the-badge&color=blue" alt="Google">
+</div>
+  
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=shubhamjagtap2126&show_icons=true&theme=white", alt="GitHub Activity">
+</div>
+
+</td>
+</tr>
+</table>
