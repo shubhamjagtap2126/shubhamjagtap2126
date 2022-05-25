@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @shubhamjagtap2126
-- 👀 I’m interested in Data science, Machine Learning projects.
+- 👋 Hi, I’m [Shubham Jagtap](https://github.com/shubhamjagtap2126/)
+- 👀 I’m seeking for Data scientist and interested in Data science, Big Data, AI-ML-DL Projects.
 - 🌱 I’m currently learning Python, R, SQL, Tableau, PowerBI, Google Data studio, etc.
 - 💞️ I’m looking to collaborate on Educational projects.
-- 📫 How to reach me bit.ly/SJ_Portfolio
+- 📫 How to reach me - [PortFolio](https://shubhamjagtap2126.wixsite.com/shubhamjagtap)
 
-![visitors count](https://visitors-by-url-pls-dont-use-this-in-your-repo.vercel.app/shubhamjagtap2126-github-readme)
+![visitors count](https://visitor-badge.glitch.me/badge?page_id=shubhamjagtap2126)
 
 <!---
 shubhamjagtap2126/shubhamjagtap2126 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
