@@ -31,9 +31,9 @@
 
 <p align="center">
 <a href="https://github.com/shubhamjagtap2126">  
-<img height = "110em" alt="shubhamjagtap2126's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/shubhamjagtap2126?cardType=github&theme=algolia" />  
+<img height = "90em" alt="shubhamjagtap2126's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/shubhamjagtap2126?cardType=github&theme=algolia" />  
 
-<img height = "110em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shubhamjagtap2126&layout=compact&langs_count=8&theme=algolia"/>
+<img height = "90em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shubhamjagtap2126&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
