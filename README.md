@@ -31,11 +31,11 @@
 
 <p align="center">
 <a href="https://awesome-github-stats.azurewebsites.net/user-stats/shubhamjagtap2126?cardType=github&theme=algolia">  
-<img height = "100em" alt="shubhamjagtap2126's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/shubhamjagtap2126?cardType=github&theme=algolia" />  
+<img height = "150em" alt="shubhamjagtap2126's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/shubhamjagtap2126?cardType=github&theme=algolia" />  
 </a>
 
-<a href="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shubhamjagtap2126&layout=compact&langs_count=8&theme=algolia">
-<img height = "100em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shubhamjagtap2126&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shubhamjagtap2126&layout=default&theme=algolia">
+<img height = "150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shubhamjagtap2126&layout=default&theme=algolia"/>
 </a>
 </p>
 
