@@ -31,10 +31,9 @@
     <img src="https://img.shields.io/badge/bootstrap-007f00?logo=bootstrap&logoColor=white&style=for-the-badge&color=blue" alt="bootstrap">
     <img src="https://img.shields.io/badge/google_data_studio-007f00?logo=Googledatastudio&logoColor=white&style=for-the-badge&color=blue" alt="Google data studio">
     <img src="https://img.shields.io/badge/google_products-007f00?logo=google&logoColor=white&style=for-the-badge&color=blue" alt="Google">
-    <img src="https://img.shields.io/badge/microsoft-3181FF?style=for-the-badge&logo=microsoft&logoColor=white">
-    <img src="https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white">
-    <img src="https://img.shields.io/badge/figma-3181FF?style=for-the-badge&logo=figma&logoColor=white">
-    <img src="https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white">
+    <img src="https://img.shields.io/badge/microsoft-007f00?style=for-the-badge&logo=microsoft&logoColor=white&color=blue">
+    <img src="https://img.shields.io/badge/figma-007f00?style=for-the-badge&logo=figma&logoColor=white&color=blue">
+    <img src="https://img.shields.io/badge/Prezi-007f00?style=for-the-badge&logo=prezi&logoColor=white&color=blue">
 </div>
  
 ### ⚙️ &nbsp;GitHub Analytics
