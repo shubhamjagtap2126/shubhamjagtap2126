@@ -1,51 +1,20 @@
-<table>
-<tr>
-<td>
-
-</td>
-
-<td>
-<!--  https://dev.to/envoy_/150-badges-for-github-pnk -->
-
+# 📊 About:
 - 📜 [**Learning Cerificates**](https://drive.google.com/drive/u/0/folders/1k9CbtNCu2S9ukOuwzOgyPt17pqjtExm4).
 - 📫 How to reach me - [**PortFolio**](https://shubhamjagtap2126.wixsite.com/shubhamjagtap)
 - ![visitors count](https://visitcount.itsvg.in/api?id=shubhamjagtap2126&icon=0&color=0)
 
-### 🛠 &nbsp;Tech Stack
-<div align="left">
-    <img src="https://img.shields.io/badge/mongodb-007f00?logo=mongodb&logoColor=white&style=for-the-badge&color=blue" alt="mongodb">
-    <img src="https://img.shields.io/badge/express-007f00?logo=express&logoColor=white&style=for-the-badge&color=blue" alt="express">
-    <img src="https://img.shields.io/badge/node-007f00?logo=nodedotjs&logoColor=white&style=for-the-badge&color=blue" alt="node"> 
-    <img src="https://img.shields.io/badge/JAVASCRIPT-007f00?logo=javascript&logoColor=white&style=for-the-badge&color=blue" alt="javascript">
-    <img src="https://img.shields.io/badge/HTML-007f00?logo=html5&logoColor=white&style=for-the-badge&color=blue" alt="HTML">
-    <img src="https://img.shields.io/badge/CSS-007f00?logo=css3&logoColor=white&style=for-the-badge&color=blue" alt="CSS">
-    <img src="https://img.shields.io/badge/Python-007f00?logo=python&logoColor=white&style=for-the-badge&color=blue" alt="Python">
-    <img src="https://img.shields.io/badge/R-007f00?logo=R&logoColor=white&style=for-the-badge&color=blue" alt="R">
-    <img src="https://img.shields.io/badge/SQL-007f00?logo=mysql&logoColor=white&style=for-the-badge&color=blue" alt="SQL">
-    <img src="https://img.shields.io/badge/Tableau-007f00?logo=Tableau&logoColor=white&style=for-the-badge&color=blue" alt="Tableau">
-    <img src="https://img.shields.io/badge/Prezi-007f00?style=for-the-badge&logo=prezi&logoColor=white&color=blue">
-    <img src="https://img.shields.io/badge/google_data_studio-007f00?logo=Googledatastudio&logoColor=white&style=for-the-badge&color=blue" alt="Google data studio">
-    <img src="https://img.shields.io/badge/google_products-007f00?logo=google&logoColor=white&style=for-the-badge&color=blue" alt="Google">
-    <img src="https://img.shields.io/badge/microsoft-007f00?style=for-the-badge&logo=microsoft&logoColor=white&color=blue">
-    <img src="https://img.shields.io/badge/figma-007f00?style=for-the-badge&logo=figma&logoColor=white&color=blue">
-    
-</div>
- 
-### ⚙️ &nbsp;GitHub Analytics
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
-<p align="center">
-<a href="https://awesome-github-stats.azurewebsites.net/user-stats/shubhamjagtap2126?cardType=github">  
-<img height = "150em" alt="shubhamjagtap2126's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/shubhamjagtap2126?cardType=github" />  
-</a>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shubhamjagtap2126&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shubhamjagtap2126&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamjagtap2126&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<a href="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shubhamjagtap2126&layout=default">
-<img height = "150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shubhamjagtap2126&layout=default"/>
-</a>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shubhamjagtap2126&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-</td>
-</tr>
-</table>
+
 
 <!-- links -->
 [Shubham Jagtap]: https://github.com/shubhamjagtap2126 "Shubham Jagtap"
