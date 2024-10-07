@@ -33,8 +33,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
 ![Google Looker Studio](https://img.shields.io/badge/google_looker_studio-%23000000.svg?style=for-the-badge&logo=looker_studio&logoColor=white) 
-![Google](https://img.shields.io/badge/google_products.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![Microsoft](https://img.shields.io/badge/microsoft-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
+![Google](https://img.shields.io/badge/google.js-%23404d59.svg?style=for-the-badge&logo=google&logoColor=%2361DAFB) 
+![Microsoft](https://img.shields.io/badge/microsoft-%23646CFF.svg?style=for-the-badge&logo=microsoft&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Prezi](https://img.shields.io/badge/prezi-6DA55F?style=for-the-badge&logo=prezi&logoColor=white) 
