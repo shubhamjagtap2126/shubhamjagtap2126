@@ -32,7 +32,7 @@
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
-![Prezi](https://img.shields.io/badge/prezi.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Prezi](https://img.shields.io/badge/prezi-6DA55F?style=for-the-badge&logo=prezi&logoColor=white) 
 ![Google data studio](https://img.shields.io/badge/google_data_studio-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) 
 ![Google](https://img.shields.io/badge/google_products.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![Microsoft](https://img.shields.io/badge/microsoft-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
