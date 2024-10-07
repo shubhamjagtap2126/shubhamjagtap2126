@@ -9,7 +9,7 @@
 
 - 📜 [**Learning Cerificates**](https://drive.google.com/drive/u/0/folders/1k9CbtNCu2S9ukOuwzOgyPt17pqjtExm4).
 - 📫 How to reach me - [**PortFolio**](https://shubhamjagtap2126.wixsite.com/shubhamjagtap)
-- ![visitors count](https://visitor-badge.glitch.me/badge?page_id=shubhamjagtap2126)
+- ![visitors count](https://visitcount.itsvg.in/api?id=shubhamjagtap2126&icon=0&color=0)
 
 ### 🛠 &nbsp;Tech Stack
 <div align="left">
